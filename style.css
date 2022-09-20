@@ -5,7 +5,7 @@
 
 body{   
   font-family: Arial, Helvetica, sans-serif; color:#FFFFFF;
-  background-image: url(/img/funkyflower.png);
+  background-image: url(/img/funkyflower1.jpg);
   
 }
 
@@ -66,6 +66,7 @@ font-weight: 100;
   padding: 20px;
   height: 300px; 
   letter-spacing: 5px;
+  
 }
 h2{
   font-weight: 100;
