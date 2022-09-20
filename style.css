@@ -17,7 +17,7 @@ body{
 #intro {
   height: 85vh;
   width: 65w;
-  background-image: url("interview/img/funkyflower.jpg");
+  background-image: url(img/funkyflower.jpg);
   
 }
 
